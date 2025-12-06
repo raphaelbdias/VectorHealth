@@ -1,0 +1,46 @@
+# Python / venv
+.venv/
+env/
+*.pyc
+__pycache__/
+
+# Node / Next
+node_modules/
+.next/
+out/
+build/
+
+# Local env + IDE
+.env*
+.vscode/
+.DS_Store
+
+# DB / vector stores
+db/vector/
+*.sqlite3
+
+# Logs
+*.log
+# Python / venv
+.venv/
+env/
+*.pyc
+__pycache__/
+
+# Node / Next
+node_modules/
+.next/
+out/
+build/
+
+# Local env + IDE
+.env*
+.vscode/
+.DS_Store
+
+# DB / vector stores
+db/vector/
+*.sqlite3
+
+# Logs
+*.log
