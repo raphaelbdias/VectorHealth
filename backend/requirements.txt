@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+
+sentence-transformers
+chromadb
+
+pypdf
+pdfplumber
+
+requests
+sse-starlette
