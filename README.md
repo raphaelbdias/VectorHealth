@@ -2,8 +2,6 @@
 
 Local Retrieval-Augmented Generation (RAG) assistant for Ontario Healthcare Reporting Standards (OHRS).
 
-Note: This project is intended to be published as a new GitHub repository. Create the repository on GitHub and push this code to it (see "Repository setup" below).
-
 Quick links
 - Backend entry: [`app.main.ChatRequest`](backend/app/main.py) / [`app.main.chat_json`](backend/app/main.py) / [`app.main.chat_stream`](backend/app/main.py) — [backend/app/main.py](backend/app/main.py)
 - Ingest scripts: [backend/app/rag/ingest.py](backend/app/rag/ingest.py), [backend/app/rag/ingest_ontario_health.py](backend/app/rag/ingest_ontario_health.py)
