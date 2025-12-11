@@ -1,4 +1,4 @@
-# OHRS Assistant
+# VectorHealth - OHRS Assistant
 
 Local Retrieval-Augmented Generation (RAG) assistant for Ontario Healthcare Reporting Standards (OHRS).
 
